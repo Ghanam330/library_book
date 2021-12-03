@@ -5,16 +5,6 @@ This application has a dark theme, the state is managed by the `ThemeNotifier` c
 This simple application demonstrates the use of the `Provider` package in specific the `ChangeNotifierProvider`.
 I make use of a simple model, together with a `Notifier` class which extends from `ChangeNotifier`.
 
-## Showcase
-### Phone
-Light Theme        |  Dark Theme
-:-------------------------:|:-------------------------:
-![Showcase](showcase/showcase.gif)  | ![Showcase dark theme](showcase/showcase_dark.gif)
-
-### Tablet
-This project contains adaptive widgets, to display both on a phone and a tablet.
-
-![Showcase Tablet](showcase/showcase_tablet.gif)
 
 ## Project
 This project is mainly focused for Flutter users who would like to use the `Provider` package suggested by the Flutter team.
